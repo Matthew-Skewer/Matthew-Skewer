@@ -1,5 +1,13 @@
-## Hi there 👋
-
+# About me.
+My name is Matthew Skewer. Novice GitHub user. 
+- Age: 22
+- Interests: Racing video games, testing video game emulators
+- Pronouns: He/him
+- Nationality: Polish 🇵🇱
+- Coding skills: None
+- Modeling skills: Novice
+- Extra info: A big fan of Nintendo's Birdo.
+ 
 <!--
 **Matthew-Skewer/Matthew-Skewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
